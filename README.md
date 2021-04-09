@@ -13,6 +13,6 @@
 
 Применялось при вёрстке: методология БЭМ, файловая структура по БЭМ, Flex, Grid, Java Script.
 
-* [Ссылка проекта на хостинге GitHub Pages](https://frontend-moscow.github.io/Where-will-I-go/index.html)
+* [Ссылка проекта на хостинге GitHub Pages](https://stanmur.github.io/Where-will-I-go/index.html)
 
 
