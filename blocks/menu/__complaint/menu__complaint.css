@@ -1,0 +1,12 @@
+.menu__complaint {
+  text-decoration: none;
+  color: #000;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 18px;
+  transition: 500ms ease-in-out;
+}
+
+.menu__complaint:hover {
+  color: #ff9797;
+}

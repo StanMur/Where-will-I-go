@@ -1,0 +1,21 @@
+.people-say__list-item {
+  list-style-type: none;
+  margin-right: 66px;
+  max-width: 263px;
+}
+
+.people-say__list-item:last-child {
+  margin-right: 0;
+}
+
+@media (max-width: 1024px) {
+  .people-say__list-item {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .people-say__list-item {
+    max-width: 100%;
+  }
+}

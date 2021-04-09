@@ -1,0 +1,16 @@
+.header__title {
+  color: #fecda7;
+  text-transform: uppercase;
+  margin: 0;
+  padding-bottom: 35px;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 20px;
+  font-family: 'Open Sans Condensed', Arial, sans-serif;
+}
+
+@media (max-width: 768px) {
+  .header__title {
+    padding-bottom: 15px;
+  }
+}

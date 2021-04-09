@@ -1,0 +1,17 @@
+.places__text-down {
+  position: absolute;
+  bottom: 12%;
+  left: 12%;
+}
+
+@media (max-width: 1024px) {
+  .places__text-down {
+    max-width: 390px;
+  }
+}
+
+@media (max-width: 768px) {
+  .places__text-down {
+    left: 10%;
+  }
+}

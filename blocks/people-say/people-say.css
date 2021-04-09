@@ -1,0 +1,13 @@
+.people-say {
+  padding: 150px 0;
+  width: 90%;
+  max-width: 1280px;
+  margin: 0 auto;
+  font-family: "Raleway", Arial, sans-serif;
+}
+
+@media (max-width: 768px) {
+  .people-say {
+    padding: 100px 0;
+  }
+}

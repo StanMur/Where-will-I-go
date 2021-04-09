@@ -1,0 +1,14 @@
+.header__place {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 120px;
+}
+
+@media (max-width: 1024px) {
+  .header__place {
+    padding-top: 60px;
+  }
+}

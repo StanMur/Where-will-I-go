@@ -1,0 +1,14 @@
+.people-say__subtitle {
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 48px;
+  max-width: 466px;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .people-say__subtitle {
+    font-size: 25px;
+    line-height: 28px;
+  }
+}

@@ -1,0 +1,9 @@
+.people-say__title {
+  margin: 0 0 30px 0;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #FECDA7;
+  font-family: 'Open Sans Condensed', Arial, sans-serif;
+}

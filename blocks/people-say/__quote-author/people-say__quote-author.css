@@ -1,0 +1,9 @@
+.people-say__quote-author {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 20px;
+  text-transform: uppercase;
+  max-width: 174px;
+  font-family: 'Open Sans Condensed', Arial, sans-serif;
+  margin: 0 0 30px 0;
+}

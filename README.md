@@ -15,4 +15,4 @@
 
 * [Ссылка проекта на хостинге GitHub Pages](https://frontend-moscow.github.io/Where-will-I-go/index.html)
 
-# Where-will-I-go
+

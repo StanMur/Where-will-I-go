@@ -1,0 +1,19 @@
+.header__intro-image {
+  width: 60%;
+  height: 390px;
+  object-fit: cover;
+  object-position: center;
+  margin-left: 60px;
+}
+
+@media (max-width: 1024px) {
+  .header__intro-image {
+    width: 83%;
+  }
+}
+
+@media (max-width: 768px) {
+    .header__intro-image {
+      height: 290px;
+    }
+  }
