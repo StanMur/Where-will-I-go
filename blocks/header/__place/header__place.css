@@ -13,8 +13,9 @@
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 767px) {
   .header__place {
     display: block;
+    padding-top: 20px;
   }
 }

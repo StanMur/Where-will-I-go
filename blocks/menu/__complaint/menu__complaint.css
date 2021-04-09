@@ -10,3 +10,10 @@
 .menu__complaint:hover {
   color: #ff9797;
 }
+
+@media (max-width: 767px) {
+  .menu__complaint {
+    font-size: 15px;
+    color: #ff9797;
+  }
+}

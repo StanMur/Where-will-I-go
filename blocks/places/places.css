@@ -3,7 +3,7 @@
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(3, 650px);
   padding-top: 150px;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
 }
 
 @media (max-width: 1024px) {
@@ -23,6 +23,7 @@
 @media (max-width: 767px) {
   .places {
     grid-template-columns: 1fr;
-  grid-template-rows: repeat(6, 300px);
+    grid-template-rows: repeat(6, 300px);
+    padding-top: 25px;
   }
 }

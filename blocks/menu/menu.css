@@ -4,8 +4,10 @@
     padding-top: 60px;
   }
 
-  @media (max-width: 450px) {
+  @media (max-width: 767px) {
     .menu {
       display: block;
+      padding-top: 20px;
+      text-align: end;
     }
   }
