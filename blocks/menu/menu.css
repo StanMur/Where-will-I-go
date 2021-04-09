@@ -3,3 +3,9 @@
     justify-content: space-between;
     padding-top: 60px;
   }
+
+  @media (max-width: 450px) {
+    .menu {
+      display: block;
+    }
+  }

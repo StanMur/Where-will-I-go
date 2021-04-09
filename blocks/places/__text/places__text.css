@@ -16,3 +16,9 @@
     line-height: 20px;
   }
 }
+
+@media (max-width: 767px) {
+  .places__text {
+    max-width: 100%;
+  }
+}

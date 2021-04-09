@@ -13,7 +13,14 @@
 }
 
 @media (max-width: 768px) {
-    .header__intro-image {
-      height: 290px;
-    }
+  .header__intro-image {
+    height: 290px;
   }
+}
+
+@media (max-width: 767px) {
+  .header__intro-image {
+    width: 100%;
+    margin-left: 0;
+  }
+}

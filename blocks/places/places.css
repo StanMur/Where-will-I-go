@@ -19,3 +19,10 @@
     grid-template-rows: repeat(3, 350px);
   }
 }
+
+@media (max-width: 767px) {
+  .places {
+    grid-template-columns: 1fr;
+  grid-template-rows: repeat(6, 300px);
+  }
+}

@@ -1,4 +1,10 @@
 .header__intro {
-    width: 50%;
-    text-align: center;
+  width: 50%;
+  text-align: center;
 }
+
+@media (max-width: 767px) {
+  .header__intro {
+    width: 100.5%;
+  }
+} 

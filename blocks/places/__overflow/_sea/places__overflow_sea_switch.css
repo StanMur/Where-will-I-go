@@ -1,0 +1,5 @@
+@media (max-width: 767px) {
+  .places__overflow_sea_switch {
+    grid-row: 5 / 6;
+  }
+}

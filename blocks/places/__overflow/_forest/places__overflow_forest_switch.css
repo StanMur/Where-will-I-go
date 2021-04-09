@@ -1,0 +1,5 @@
+@media (max-width: 767px) {
+  .places__overflow_forest_switch {
+    grid-row: 2 / 3;
+  }
+}
