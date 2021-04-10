@@ -4,6 +4,12 @@
   line-height: 20px;
   text-transform: uppercase;
   max-width: 174px;
-  font-family: 'Open Sans Condensed', Arial, sans-serif;
+  font-family: "Open Sans Condensed", Arial, sans-serif;
   margin: 0 0 30px 0;
+}
+
+@media (max-width: 768px) {
+  .people-say__quote-author {
+    margin: 30px 0 10px 0;
+  }
 }
